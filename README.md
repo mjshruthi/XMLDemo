@@ -16,4 +16,8 @@ Before the first commit and push, I created a repository and changed the passwor
 So, might be one of the reasons - the commit was rejected - saying fast forward.
 
 some more changes to verify, what can hel p pull these canges to local.
+Pull or pull from master works. Fetch doesn't work.
+
+need to add code changes and commit. after commit is done, changes in readme shows in unstaged.
+
 
