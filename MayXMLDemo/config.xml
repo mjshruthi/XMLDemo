@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+<name>Akshay</name>  
+<company>TekArch</company>
+<desig>Trainer</desig>
+<URL>https://login.salesforce.com/</URL>
+<UName>testing@abc.com</UName>
+<PWD>somepassword</PWD>
+<ID>Login</ID>
+</menu>
