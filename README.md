@@ -15,5 +15,5 @@ when there are changes somewhere on the remote.
 Before the first commit and push, I created a repository and changed the password.
 So, might be one of the reasons - the commit was rejected - saying fast forward.
 
-
+some more changes to verify, what can hel p pull these canges to local.
 
